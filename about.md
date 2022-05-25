@@ -1,4 +1,4 @@
 layout: page
 title: "About Me"
-permalink: https:/peter-lillie.github.io
+permalink: https:/peter-lillie.github.io/about
 
